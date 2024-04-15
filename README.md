@@ -14,4 +14,4 @@ Simply! Translate is a web application built with Streamlit that allows users to
 1. Clone the repository:
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Rith-Jhay/translator-app.git
